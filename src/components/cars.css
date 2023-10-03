@@ -1,0 +1,12 @@
+.card-img-top {
+  height: 200px;
+
+  padding: 10px;
+  margin: 2px;
+}
+.card {
+  background-color: white;
+  width: 90%;
+  padding: 5px;
+  margin: 5px;
+}

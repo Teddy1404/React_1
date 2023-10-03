@@ -1,0 +1,58 @@
+.mainn {
+  background-color: rgb(203, 196, 196);
+  width: 100%;
+}
+* {
+  padding: -2px;
+  margin-top: 2px;
+}
+body {
+  background-color: rgb(203, 196, 196);
+}
+nav {
+  width: 83%;
+  border-radius: 10px;
+  margin-left: 110px;
+}
+.card-img-top {
+  height: 200px;
+
+  padding: 10px;
+  margin: 2px;
+}
+.card {
+  background-color: white;
+  width: 90%;
+  padding: 5px;
+  margin: 5px;
+}
+.carrs {
+  width: 100%;
+}
+.card-text {
+  width: 50px;
+  text-align: center;
+  margin-top: 10px;
+  border: 2px dotted #478ce7;
+  border-radius: 10px;
+}
+button {
+  width: 100px;
+  height: 40px;
+}
+.heart {
+  background-color: rgb(167, 200, 232);
+  width: 30px;
+  padding: 5px;
+  height: 35px;
+  margin-top: 3px;
+  margin-right: 3px;
+  align-items: center;
+  display: flex;
+  border-radius: 9px;
+}
+.pagination {
+  width: 10px;
+  padding: 5px;
+  gap: 10px;
+}
